@@ -19,8 +19,8 @@ Reproducible research is as important for computational analysis as it is at the
 
 ### Contents
 
-| Lessons            |  Estimated Duration  | 
-|:------------------------:|:------------------------------------------------:|
+| Lessons            |  Estimated Duration  |  Instructor |
+|:------------------------:|:------------------------------------------------:|:--------:|
 | 13:00 - 13:10 | [Workshop Introduction]() | Mary |
 | 13:10 - 13:30 | [Introduction to Reproducibility]() | Meeta |
 | 13:30 - 14:15 | [RMarkdown Basics](https://hbctraining.github.io/reproducibility-tools/lessons/01-Rmarkdown_basics.html) | Mary |
