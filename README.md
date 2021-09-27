@@ -1,4 +1,4 @@
-# Rmarkdown for R analysis report generation
+# Generation of R Analysis Reports using RMarkdown
 
 | Audience | Computational Skills | Prerequisites | Duration |
 :----------|:----------|:----------|:----------|
@@ -6,7 +6,7 @@
 
 ### Description
 
-This repository has teaching materials for a **3 hour**, hands-on **Reproducible Research using R** workshop led at a relaxed pace. 
+This repository has teaching materials for a **3 hour**, hands-on **Generation of R Analysis Reports using RMarkdown** workshop led at a relaxed pace. 
 
 Reproducible research is as important for computational analysis as it is at the bench. Integrating your R data analyses into a report format allows for easy retrieval of the packages/versions and code used to generate your results and figures. It allows for efficient communication of your results with your collaborators. The **knitr** R package allows for the easy generation of professional reports for any R analysis, while allowing for customization and easy revision. In this 3-hour workshop, we will cover the simple RMarkdown syntax and explore options for customizing your reports.
 
