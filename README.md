@@ -1,27 +1,45 @@
 # Rmarkdown for R analysis report generation
 
-# Workshop Schedule
+| Audience | Computational Skills | Prerequisites | Duration |
+:----------|:----------|:----------|:----------|
+| Anyone | Beginner/Intermediate R | Working knowledge of R/RStudio | 3 hour workshop|
 
-## Day 1
+### Description
 
-| Time            |  Topic  | Instructor |
-|:------------------------:|:------------------------------------------------:|:--------:|
-| 09:30 - 10:10 | [Workshop Introduction]() | Mary |
-| 09:30 - 10:10 | [Introduction to Reproducibility]() | Meeta |
-| 10:10 - 10:55 | [RMarkdown Basics](../../reproducibility-tools/01-Rmarkdown_basics.md) | Mary |
-| 10:55 - 11:00 | Break |  |
-| 11:00 - 11:45 | [RMarkdown Intermediate](../../reproducibility-tools/lessons/02-Rmarkdown_intermediate.md) | Meeta |
-| 11:45 - 12:00 | Assignment review | Mary |
+This repository has teaching materials for a **3 hour**, hands-on **Reproducible Research using R** workshop led at a relaxed pace. 
 
-### Assignment #1
+Reproducible research is as important for computational analysis as it is at the bench. Integrating your R data analyses into a report format allows for easy retrieval of the packages/versions and code used to generate your results and figures. It allows for efficient communication of your results with your collaborators. The **knitr** R package allows for the easy generation of professional reports for any R analysis, while allowing for customization and easy revision. In this 3-hour workshop, we will cover the simple RMarkdown syntax and explore options for customizing your reports.
 
-* [Practice with RMarkdown](../activities/Rmd_exercise4.md)
-* Upload the files requested in the above exercise to [Dropbox](https://www.dropbox.com/request/rsjyLe9hgLhh5Kka8lD1) **day before the next class**.
-* [Email us](mailto:hbctraining@hsph.harvard.edu) about questions that you need answered to work through the exercise.
-* Post questions that you would like to have reviewed in class [here](https://PollEv.com/hbctraining945).
-* [**Answer key**](https://raw.githubusercontent.com/hbctraining/reproducibility-tools/master/activities/Rmd_exercise4_answerkey.rmd)
+### Learning Objectives
+*  **Understand Rmarkdown syntax and available features:** Exploring the syntax of the Rmarkdown language and different available features.
+*  **Utilize `knitr` for report generation:** Practicing with `knitr` and different `knitr` options for customizing reports.
+
+> These materials are developed for a trainer-led workshop, but also amenable to self-guided learning.
+
+
+### Contents
+
+| Lessons            |  Estimated Duration  | 
+|:------------------------:|:------------------------------------------------:|
+| 13:00 - 13:10 | [Workshop Introduction]() | Mary |
+| 13:10 - 13:30 | [Introduction to Reproducibility]() | Meeta |
+| 13:30 - 14:15 | [RMarkdown Basics](https://hbctraining.github.io/reproducibility-tools/lessons/01-Rmarkdown_basics.html) | Mary |
+| 14:15 - 14:20 | Break | |
+| 14:20 - 15:05 | [RMarkdown Intermediate](https://hbctraining.github.io/reproducibility-tools/lessons/02-Rmarkdown_intermediate.html) | Meeta | 
+| 15:05 - 15:50 | [Practice with RMarkdown](https://hbctraining.github.io/reproducibility-tools/activities/Rmd_exercise4.html) | Mary | 
+| 15:50 - 16:00 | [Wrap-up]() | Mary | 
+
+
+### Setup and Installation Requirements
+
+Download the most recent versions of R and RStudio for your laptop:
+
+ - [R](http://lib.stat.cmu.edu/R/CRAN/) 
+ - [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
 
 ## Resources
+ 
+### [**Answer key**](https://raw.githubusercontent.com/hbctraining/reproducibility-tools/master/activities/Rmd_exercise4_answerkey.rmd)
 
 ### R Markdown
 -   [knitr in a knutshell](http://kbroman.org/knitr_knutshell/)
