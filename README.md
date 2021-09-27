@@ -39,7 +39,7 @@ Download the most recent versions of R and RStudio for your laptop:
 
 ## Resources
  
-### [**Answer key**](https://raw.githubusercontent.com/hbctraining/reproducibility-tools/master/activities/Rmd_exercise4_answerkey.rmd)
+### [**RMarkdown practice answer key**](https://raw.githubusercontent.com/hbctraining/reproducibility-tools/master/activities/Rmd_exercise4_answerkey.rmd)
 
 ### R Markdown
 -   [knitr in a knutshell](http://kbroman.org/knitr_knutshell/)
