@@ -52,18 +52,20 @@ library("tidyverse")
 library("pheatmap")
 ```
 
-## Resources
-* knitrBootstrap package for [example reports](https://github.com/jimhester/knitrBootstrap#examples) and for [adding themes](https://github.com/jimhester/knitrBootstrap#bootstrap-themes)
-* The [DT package](https://rstudio.github.io/DT/) - for fancy tables in Rmarkdown
-
 ## Answer keys
 * [**RMarkdown practice answer key**](https://raw.githubusercontent.com/hbctraining/reproducibility-tools/master/activities/Rmd_exercise4_answerkey.rmd)
+
+
+## Resources
 
 ### R Markdown
 -   [knitr in a knutshell](http://kbroman.org/knitr_knutshell/)
 -   [knitr book](https://www.amazon.com/gp/product/1498716962)
 -   [knitr examples](https://yihui.name/knitr/demos)
 -   [knitr vignettes](https://github.com/yihui/knitr/tree/master/vignettes)
+-   **knitrBootstrap** package for [example reports](https://github.com/jimhester/knitrBootstrap#examples) and for [adding themes](https://github.com/jimhester/knitrBootstrap#bootstrap-themes)
+-   The [DT package](https://rstudio.github.io/DT/) - for fancy tables in Rmarkdown
+
 
 ### Reproducibility guidelines
 * [HMS R3 Effort](https://ari.hms.harvard.edu/research-rigor-reproducibility/hms-r3-effort)
