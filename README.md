@@ -53,8 +53,11 @@ library("pheatmap")
 ```
 
 ## Resources
- 
-### [**RMarkdown practice answer key**](https://raw.githubusercontent.com/hbctraining/reproducibility-tools/master/activities/Rmd_exercise4_answerkey.rmd)
+* knitrBootstrap package for [example reports](https://github.com/jimhester/knitrBootstrap#examples) and for [adding themes](https://github.com/jimhester/knitrBootstrap#bootstrap-themes)
+* The [DT package](https://rstudio.github.io/DT/) - for fancy tables in Rmarkdown
+
+## Answer keys
+* [**RMarkdown practice answer key**](https://raw.githubusercontent.com/hbctraining/reproducibility-tools/master/activities/Rmd_exercise4_answerkey.rmd)
 
 ### R Markdown
 -   [knitr in a knutshell](http://kbroman.org/knitr_knutshell/)
