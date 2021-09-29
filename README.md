@@ -27,7 +27,7 @@ Reproducible research is as important for computational analysis as it is at the
 | 14:15 - 14:20 | Break | |
 | 14:20 - 15:05 | [RMarkdown Intermediate](https://hbctraining.github.io/reproducibility-tools/lessons/02-Rmarkdown_intermediate.html) | Meeta | 
 | 15:05 - 15:50 | [Practice with RMarkdown](https://hbctraining.github.io/reproducibility-tools/activities/Rmd_exercise4.html) | Mary | 
-| 15:50 - 16:00 | [Wrap-up]() | Mary | 
+| 15:50 - 16:00 | [Wrap-up](https://github.com/hbctraining/Rmarkdown_analysis_reports/raw/main/lectures/Workshop_wrapup.pdf) | Mary | 
 
 
 ### Setup and Installation Requirements
