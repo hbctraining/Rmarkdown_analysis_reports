@@ -37,7 +37,7 @@ Download the most recent versions of R and RStudio for your laptop:
  - [R](http://lib.stat.cmu.edu/R/CRAN/) 
  - [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
 
-Install the below packages on your laptop from CRAN. You DO NOT have to go to the CRAN webpage; you can use the following function to install them one by one:
+Install the below packages on your laptop from CRAN. You DO NOT have to go to the CRAN webpage; you can install as follows:
 
 
 ```r
