@@ -37,6 +37,21 @@ Download the most recent versions of R and RStudio for your laptop:
  - [R](http://lib.stat.cmu.edu/R/CRAN/) 
  - [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
 
+Install the below packages on your laptop from CRAN. You DO NOT have to go to the CRAN webpage; you can use the following function to install them one by one:
+
+
+```r
+install.packages("tidyverse")
+install.packages("pheatmap")
+```
+
+Load the libraries to ensure the packages properly installed:
+
+```r
+library("tidyverse")
+library("pheatmap")
+```
+
 ## Resources
  
 ### [**RMarkdown practice answer key**](https://raw.githubusercontent.com/hbctraining/reproducibility-tools/master/activities/Rmd_exercise4_answerkey.rmd)
